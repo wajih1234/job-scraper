@@ -1,0 +1,5 @@
+.env
+jobs.db
+links.json
+offers.json
+__pycache__/
